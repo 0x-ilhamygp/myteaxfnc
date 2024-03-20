@@ -1,0 +1,17 @@
+{
+  "name": "myteaxfnc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": "https://github.com/0x-ilhamygp/myteaxfnc.git",
+  "dependencies": {
+    "wallet-snap": "^1.1.2",
+    "web3-wallet-kit": "^1.1.2"
+  }
+}
